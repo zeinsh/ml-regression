@@ -7,3 +7,11 @@ Regression course from machine learning specialization - University of Washingto
 [Closed Form for Linear Regression (Victorized implementation) - Machine Learning MOOC by Andrew gl.](https://github.com/zeinsh/ml-regression/blob/master/week01/simple_regression.ipynb)
 
 [Closed Form for Simple Linear Regression (one feature) - Machine Learning, Rgression course by University of Washington](https://github.com/zeinsh/ml-regression/blob/master/week01/simple_regression.ipynb)
+
+
+
+<B>Regression Week 2: Polynomial Regression model / Multiple features</B>
+
+[Linear Regression using sklearn](https://github.com/zeinsh/ml-regression/blob/master/week02/polynomial regression - 1.ipynb)
+
+[Linear Regression - Gradient Descent implementation](https://github.com/zeinsh/ml-regression/blob/master/week02/polynomial regression - 2.ipynb)
